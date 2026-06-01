@@ -48,4 +48,37 @@ Apresentação de envolvidos no projeto/ONG
   
 ---
 
-## 📂 Estrutura do Projeto
+
+---
+
+## 💡 Aprendizados
+Durante o desenvolvimento deste projeto, foi possível:
+
+- Aplicar conceitos de **desenvolvimento web**
+- Trabalhar com **estruturação de páginas e navegação**
+- Desenvolver habilidades de **organização de código**
+- Praticar **trabalho em equipe**
+- Pensar na **experiência do usuário (UX)**
+
+---
+
+## 🌱 Possíveis Melhorias Futuras
+- Integração com banco de dados
+- Sistema de login para usuários e ONGs
+- Cadastro de animais dinâmico
+- Sistema de doações online
+- Responsividade aprimorada para dispositivos móveis
+
+---
+
+## 👩🏻‍💻 Autora
+**Camila Melim**  
+Estudante de Sistemas de Informação  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/camila-melim)  
+🔗 [GitHub](https://github.com/camilamelim)
+
+---
+
+## ❤️ Considerações Finais
+Este projeto representa a união entre tecnologia e impacto social, mostrando como soluções digitais podem contribuir para causas importantes como a proteção animal.

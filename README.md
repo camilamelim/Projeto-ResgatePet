@@ -71,7 +71,7 @@ Durante o desenvolvimento deste projeto, foi possível:
 
 ---
 
-## 👩🏻‍💻 Autora
+## Autora
 **Camila Melim**  
 Estudante de Sistemas de Informação  
 
@@ -80,5 +80,5 @@ Estudante de Sistemas de Informação
 
 ---
 
-## ❤️ Considerações Finais
+## Considerações Finais
 Este projeto representa a união entre tecnologia e impacto social, mostrando como soluções digitais podem contribuir para causas importantes como a proteção animal.
